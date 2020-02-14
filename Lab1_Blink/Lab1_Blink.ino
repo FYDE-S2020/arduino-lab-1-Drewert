@@ -30,4 +30,11 @@ void loop() {
   timedblink(250);
   timedblink(500);
   timedblink(1000);
+//  for(int i = 0; i < 100; i++) {
+//    dimmer(100, i);
+//   
+//  }
+//  for(int i = 100; i > 1; i--) {
+//    dimmer(100, i);
+//  }
 }
